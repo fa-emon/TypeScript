@@ -15,6 +15,6 @@ console.log(`${fullName}, \nCapital: ${fullName.toUpperCase()}, \nsmall: ${fullN
 // example of void: (when a function doesn't return something, then we call it type void)
 
 function display() {
-    console.log("Hi, I'm not returning anything.")
+    console.log("Hey! I'm not returning anything.")
 }
 display();
