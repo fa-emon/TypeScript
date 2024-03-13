@@ -8,4 +8,4 @@ function displayInfo(userId: string | number){
     console.log(userId);
 }
 displayInfo(101)
-displayInfo('101')
+displayInfo('1010')
